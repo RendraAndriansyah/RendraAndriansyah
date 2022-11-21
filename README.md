@@ -90,8 +90,6 @@
 </a>
 -->
 
-### :zap: Recent Github Activity
-
 <!--START_SECTION:activity-->
 
 <!-- 1. 💪 Opened PR [#9495](https://github.com/education/GitHubGraduation-2021/pull/9495) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
