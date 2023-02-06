@@ -38,7 +38,5 @@
   
   
 ### Github Status 📊
-<p>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendraAndriansyah&layout=compact&theme=sea&hide_border=false" /></a> 
 <a  href="#"><img src="https://github-readme-stats.vercel.app/api?username=RendraAndriansyah&theme=sea&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Rendra's github stats" /></a> 
-</p>
