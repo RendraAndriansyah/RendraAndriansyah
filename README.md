@@ -36,6 +36,6 @@
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=react,redux,vite,next,sass,tailwind,materialui,bootstrap)
 
 <p align="right">
-| <a  href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=novalia9517&theme=sea&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Novalia's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novalia9517&theme=sea&hide_border=false" /></a> |
+| <a  href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=RendraAndriansyah&theme=sea&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Rendra's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=novalia9517&theme=sea&hide_border=false" /></a> |
 </p>
 
