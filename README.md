@@ -38,7 +38,5 @@
   
   
 ### Github Status 📊
-
-| <a  href="#"><img src="https://github-readme-stats.vercel.app/api?username=RendraAndriansyah&theme=sea&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Rendra's github stats" /></a> | 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img heigh="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendraAndriansyah&layout=compact&theme=sea&hide_border=false" /></a> | |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RendraAndriansyah&&show_icons=true&theme=radical" alt="Rendra's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RendraAndriansyah&show_icons=true&locale=en&layout=compact&theme=radical" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
