@@ -28,4 +28,9 @@
 
 ## Tech Stack 👨🏻‍💻 :
 ### Languages 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ts,)
+[![Languages](https://skillicons.dev/icons?i=html,css,ts,)]
+### Tools
+[![Tools](https://skillicons.dev/icons?i=vscode,figma,ps,ai)]
+### Frameworks & Libraries
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,redux,vite,next,sass,tailwind,materialui,bootstrap)]
+
