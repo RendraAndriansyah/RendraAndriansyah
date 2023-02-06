@@ -39,10 +39,11 @@
 
 ### Github Status 📊
 <div align="right">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=RendraAndriansyah&theme=sea&hide_border=false" /></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=RendraAndriansyah&theme=sea&hide_border=false" /></a> 
+  </div>
 
 <a  href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=RendraAndriansyah&theme=sea&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Rendra's github stats" /></a> 
-  </div>
 
 
 
