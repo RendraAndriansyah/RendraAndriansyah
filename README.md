@@ -28,7 +28,7 @@
 
 ## Tech Stack 👨🏻‍💻 
 ### Languages 
-![Languages](https://skillicons.dev/icons?i=html,css,ts,)
+![Languages](https://skillicons.dev/icons?i=html,css,js,ts,)
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=vscode,figma,ps,ai)
 ### Frameworks & Libraries
