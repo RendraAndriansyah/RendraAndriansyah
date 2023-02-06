@@ -27,10 +27,10 @@
 <br>
 
 ## Tech Stack 👨🏻‍💻 
-# Languages 
-[![Languages](https://skillicons.dev/icons?i=html,css,ts,)]
+### Languages 
+[Languages](https://skillicons.dev/icons?i=html,css,ts,)
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,figma,ps,ai)]
+[Tools](https://skillicons.dev/icons?i=vscode,figma,ps,ai)
 ### Frameworks & Libraries
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,redux,vite,next,sass,tailwind,materialui,bootstrap)]
+[Frameworks & Libraries](https://skillicons.dev/icons?i=react,redux,vite,next,sass,tailwind,materialui,bootstrap)
 
