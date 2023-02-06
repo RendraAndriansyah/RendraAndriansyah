@@ -19,7 +19,8 @@
 
 
 - 🔭 Currently, I have completed the Frontend Developer bootcamp :grin:
-- 🌱 I’m currently keep learning tech stack Frontend Developer .
+- 🌱 I’m currently keep learning tech stack Front-end Developer.
+- 👋🏻 I'm Curently looking for job opportunity as Front-end Developer.
 - 🥅 2023 Goals: Start working as Frontend Developer
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
@@ -33,4 +34,7 @@
 ![Tools](https://skillicons.dev/icons?i=vscode,figma,ps,ai)
 ### Frameworks & Libraries
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=react,redux,vite,next,sass,tailwind,materialui,bootstrap)
+<p align="right>
+| <a  href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=novalia9517&theme=sea&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Novalia's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novalia9517&theme=sea&hide_border=false" /></a> |
+</p>
 
