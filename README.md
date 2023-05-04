@@ -19,7 +19,7 @@
 
 - 🔭 I have completed the Frontend Developer bootcamp 
 - 👋🏻 Now I'm looking for job opportunity as Front-end Developer.
-- 🧗 I try to: Go beyond and push the bounds
+- 🧗 I try to: Go beyond and push the limits
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 - 🤝🏻 connect with me on [linkedin](https://www.linkedin.com/in/rendraandriansyah/) 
 
