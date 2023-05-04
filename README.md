@@ -36,6 +36,9 @@
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=react,redux,vite,next,sass,tailwind,materialui,bootstrap)
   
   
-### Github Status 📊
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RendraAndriansyah&&show_icons=true&theme=sea" alt="Rendra's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RendraAndriansyah&show_icons=true&locale=en&layout=compact&theme=sea" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novalia9517&layout=compact&theme=sea&hide_border=false" /></a>
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<br/>
+
+<summary><h2>📊GitHub Stats</h2></summary>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RendraAndriansyah&theme=sea&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Novalia's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendraAndriansyah&layout=compact&theme=sea&hide_border=false" /></a> 
+
