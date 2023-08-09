@@ -37,6 +37,6 @@
   
   
 <br/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendraAndriansyah&layout=compact&theme=sea&hide_border=false" /></a> 
+<h3>:octocat: Github Status</h3>
+  <a href="https://github.com/RendraAndriansyah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RendraAndriansyah&show_icons=true&locale=en&layout=compact&theme=sea" /></a> 
 
