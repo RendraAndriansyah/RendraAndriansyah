@@ -17,10 +17,8 @@
 
 <img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I have completed the Frontend Developer Bootcamp 
-- 👋🏻 Now I'm looking for job opportunity as Front-end Developer.
 - 🧗 I try to: Go beyond and push the limits
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- 👋🏻 I love connecting with different people :raised_hands:
 - 🤝🏻 connect with me on [linkedin](https://www.linkedin.com/in/rendraandriansyah/) 
 
 
