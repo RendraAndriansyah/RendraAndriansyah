@@ -23,11 +23,13 @@
   
 ## Tech Stack 👨🏻‍💻 
 ### Languages 
-![Languages](https://skillicons.dev/icons?i=html,css,js,ts,)
+![Languages](https://skillicons.dev/icons?i=html,css,js,ts,cs)
 ### Tools
-![Tools](https://skillicons.dev/icons?i=vscode,figma,ps,ai)
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,postman,docker,git,pnpm,github,gitlab,ubuntu,figma,ps,ai,)
 ### Frameworks & Libraries
-![Frameworks & Libraries](https://skillicons.dev/icons?i=react,redux,vite,next,sass,tailwind,materialui,bootstrap)
+![Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,astro,nodejs,dotnet,redux,vite,jest)
+### Styling UI
+![Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,sass,materialui,bootstrap) etc
   
   
 <br/>
