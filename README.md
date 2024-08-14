@@ -25,11 +25,13 @@
 ### Languages 
 ![Languages](https://skillicons.dev/icons?i=html,css,js,ts,cs)
 ### Tools
-![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,postman,docker,git,pnpm,github,gitlab,ubuntu,figma,ps,ai,)
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,postman,docker,git,pnpm,github,gitlab,ubuntu,figma,wordpress,ps,ai,)
 ### Frameworks & Libraries
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,astro,nodejs,dotnet,redux,vite,jest)
 ### Styling UI
-![Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,sass,materialui,bootstrap) etc
+![Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,sass,materialui,bootstrap) 
+<img height="50" src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png">
+<img height="50" alt="ant-design" src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png">
   
   
 <br/>
